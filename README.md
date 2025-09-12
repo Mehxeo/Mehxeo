@@ -1,8 +1,6 @@
 # 💫 About Me:
 I am currently working at Kashmir World Foundation as a Full-Stack SWE<br>I'm looking to collaborate on a Roblox Video game that is being created right now<br>I'm currently learning C, more specifically compilers so I can create my own programming language<br>Fun fact: I love weight lifting, playing games like Elden Ring, and learning more about Math
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_utsavdas) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-das-03789520b/) 
