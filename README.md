@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working at Kashmir World Foundation as a Full-Stack SWE<br>I'm looking to collaborate on a studying app that is being created right now<br>I'm currently learning C, more specifically compilers so I can create my own programming language<br>Fun fact: I love weight lifting, playing games like Elden Ring, and learning more about Math
+I am currently working at Todd, Bridges-Scholar, and iChemLabs as a Full-Stack SWE, AI Engineer, and ML Developer<br>I'm working on Velora<br>My goal is for 1 million paid users before the end of 2026<br>Fun fact: I love weight lifting, playing games like Elden Ring, and learning more about Math
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-das-03789520b/) 
